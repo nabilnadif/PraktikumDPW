@@ -46,7 +46,7 @@
 6. Undangan diberikan hiasan yang akan bergerak-gerak(animasi)
 7. Setiap elemen yang muncul akan memiliki animasi
 8. Ada fitur maps dan hitung mundur
-8. Admin bisa melakukan pengeditan ke beberapa hal:
+9. Admin bisa melakukan pengeditan ke beberapa hal:
     a. Edit nama tamu undangan
     b. Edit nama mempelai
     c. Edit fitur komentar
